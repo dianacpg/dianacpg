@@ -1,14 +1,10 @@
 ## Hello, I'm Diana! 👋
 
-- 🔭 From Portugal
-- 🌱 I’m currently learning more about JS
-- 👯 I’m looking to build some projects
+- 🌱 I am from Lisbon, Portugal
+- 🔭 I’m currently learning more about JS
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a Dietetics and Nutrition Bs Student
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 👯Want to build some projects?
+- ⚡ Fun fact: I am a Dietetics and Nutrition Bs Student 🥦
 
 ### Connect with me:
 
