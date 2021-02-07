@@ -3,7 +3,7 @@
 - 🌱 I am from Lisbon, Portugal
 - 🔭 I’m currently learning more about React
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 👯 Wanna to build some projects?
+- 👯 Wanna build some projects?
 - ⚡ Fun fact: I am a Dietetics and Nutrition BSc Student 🥦
 
 ### Connect with me:
