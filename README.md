@@ -1,7 +1,7 @@
 ## Hello, I'm Diana! 👋
 
 - 🌱 I am from Lisbon, Portugal
-- 🔭 Learning and growing as a full stack developer
+- 🔭 Learning and growing as a full stack web developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 Wanna build some projects?
 - ⚡ Fun fact: I am a Dietetics and Nutrition BSc Student 🥦
