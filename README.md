@@ -1,10 +1,10 @@
 ## Hello, I'm Diana! 👋
 
 - 🌱 I am from Lisbon, Portugal
-- 🔭 I’m currently learning more about React
+- 🔭 I’m currently learning more about ReactJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯Want to build some projects?
-- ⚡ Fun fact: I am a Dietetics and Nutrition Bs Student 🥦
+- ⚡ Fun fact: I am a Dietetics and Nutrition BSc Student 🥦
 
 ### Connect with me:
 
