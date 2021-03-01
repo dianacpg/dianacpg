@@ -43,6 +43,6 @@
 
 </details>
 
-[website]: https://www.google.pt
+[website]: https://https://diwebdev.netlify.app/
 [instagram]: https://www.instagram.com/dcpg9/
 [linkedin]: https://linkedin.com/in/diana-gouveia-a13b81202
