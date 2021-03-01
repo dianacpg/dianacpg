@@ -45,4 +45,4 @@
 
 [website]: https://www.google.pt
 [instagram]: https://www.instagram.com/dcpg9/
-[linkedin]: https://https://www.linkedin.com/in/diana-gouveia-a13b81202/
+[linkedin]: https://linkedin.com/in/diana-gouveia-a13b81202
