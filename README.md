@@ -41,6 +41,6 @@
 
 </details>
 
-[website]: https://diwebdev.netlify.app/
+[website]: https://dianagouveia.netlify.app/
 [instagram]: https://www.instagram.com/diwebdev/
 [linkedin]: https://linkedin.com/in/diana-gouveia-a13b81202
