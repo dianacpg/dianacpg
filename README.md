@@ -1,6 +1,5 @@
 ## Hello, I'm Diana! 👋
 
-- 🌱 I am from Lisbon, Portugal
 - 👯Want to build some projects?
 
 
