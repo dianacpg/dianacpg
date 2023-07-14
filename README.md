@@ -1,35 +1,36 @@
-## Hello, I'm Diana! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+Diana!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 👯Want to build some projects?
+<p> I'm a Frontend Developer specializing in React and TypeScript, passionate about building elegant and user-friendly web applications. 
+ Excited to contribute to new projects and collaborate with a diverse community of developers who share a passion for creating exceptional user experiences.</p>
 
+ <br />
 
-### Connect with me:
+### Skills:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+  <p>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat&logo=SASS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  </p>
+  
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Webpack" width="26px" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png" />
-<br />
-<br />
-
----
+### Github Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true" alt="Diana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Pinned Repositories
+<br />
+
+### Pinned Repositories
 
 <a href="https://github.com/dianacpg/react-app-infrastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure" />
@@ -37,6 +38,3 @@
 <a href="https://github.com/dianacpg/react-redux-ts_activities_recorder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure" />
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure)](https://github.com/dianacpg/react-app-infrastructure)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-redux-ts_activities_recorder)](https://github.com/dianacpg/react-redux-ts_activities_recorder)
