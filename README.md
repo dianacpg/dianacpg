@@ -27,4 +27,4 @@
 
 ---
 
-[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/dianacpg/github-readme-stats)
+[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacpg)](https://github.com/dianacpg/github-readme-stats)
