@@ -29,10 +29,14 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true" alt="Diana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/dianacpg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact)](https://github.com/dianacpg/github-readme-stats)
-
 #### Pinned Repositories
+
+<a href="https://github.com/dianacpg/react-app-infrastructure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure)](https://github.com/dianacpg/react-app-infrastructure" />
+</a>
+<a href="https://github.com/dianacpg/react-redux-ts_activities_recorder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-redux-ts_activities_recorder)](https://github.com/dianacpg/react-redux-ts_activities_recorder" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure)](https://github.com/dianacpg/react-app-infrastructure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-redux-ts_activities_recorder)](https://github.com/dianacpg/react-redux-ts_activities_recorder)
