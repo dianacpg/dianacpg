@@ -1,12 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+Diana!+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+Diana!+)](https://git.io/typing-svg)
 
-<p> I'm a Frontend Developer specializing in React and TypeScript, passionate about building elegant and user-friendly web applications. 
- Excited to contribute to new projects and collaborate with a diverse community of developers who share a passion for creating exceptional user experiences.</p>
+<p> I'm a Frontend Developer specializing in React and TypeScript, passionate about building elegant and user-friendly web applications. </p>
+ <p>Excited to contribute to new projects and collaborate with a diverse community of developers.</p>
+ <p> Feel free to contact me! 👋 </p>
 
- <br />
-
-### Skills:
-
+#### Skills:
   <p>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
@@ -21,16 +19,16 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
-  
-<br />
+<details>
+  <summary><b>Github Stats</b></summary>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true" alt="Diana's github stats" />
+ </a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a>
+</details>
 
-### Github Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true" alt="Diana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br />
-
-### Pinned Repositories
+#### Pinned Repositories
 
 <a href="https://github.com/dianacpg/react-app-infrastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure" />
