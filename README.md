@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+Diana!+)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&vCenter=true&width=435&height=36&lines=Hello%2C+I'm+Diana!)
 
 <p> I'm a Frontend Developer specializing in React and TypeScript, passionate about building elegant and user-friendly web applications. </p>
  <p>Excited to contribute to new projects and collaborate with a diverse community of developers.</p>
