@@ -26,8 +26,11 @@
 <br />
 
 ---
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true" alt="Diana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github)](https://github.com/dianacpg/github-readme-stats)
+
+[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacpg&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/dianacpg/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact)](https://github.com/dianacpg/github-readme-stats)
 
 #### Pinned Repositories
