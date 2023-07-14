@@ -27,12 +27,3 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianacpg&layout=compact&hide_border=true" /></a>
 </details>
-
-#### Pinned Repositories
-
-<a href="https://github.com/dianacpg/react-app-infrastructure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure" />
-</a>
-<a href="https://github.com/dianacpg/react-redux-ts_activities_recorder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dianacpg&repo=react-app-infrastructure" />
-</a>
