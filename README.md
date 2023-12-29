@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL%20-blue.svg?&style=flat&logo=mysql&logoColor=black" />
+   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
    <img src="https://img.shields.io/badge/PostgreSQL%20-blue.svg?&style=flat&logo=postgresql&logoColor=black" />
    <img src="https://img.shields.io/badge/Prisma%20-black.svg?&style=flat&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat&logo=webpack&logoColor=black" />
